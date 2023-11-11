@@ -13,3 +13,5 @@ If you need support: Discord: msaik
 EJEMPLO DE SOPORTE:  No puedo introducir los coches en el concesionario. Los puedes introducir por mi? Respuesta: SI
 
 EXAMPLE OF SUPPORT: I can't bring the cars into the dealership. Can you bring them in for me? Response: YES
+
+https://imgur.com/gynURXK
