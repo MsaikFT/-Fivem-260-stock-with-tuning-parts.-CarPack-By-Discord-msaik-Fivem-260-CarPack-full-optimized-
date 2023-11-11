@@ -14,7 +14,7 @@ If you need support: Discord: msaik
 
 [EN] EXAMPLE OF SUPPORT: I can't bring the cars into the dealership. Can you bring them in for me? Response: YES
 
-##SOME CARS##
+## SOME CARS ##
 
 ![Captura de pantalla 2023-11-11 130512](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/e7005c9f-4bbb-4b98-b2ed-5f59923838e5)
 ![Captura de pantalla 2023-11-11 123523](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/b4d3b5a2-7cb4-4d29-a522-67e2c0248921)
@@ -22,7 +22,7 @@ If you need support: Discord: msaik
 ![Captura de pantalla 2023-11-11 125301](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/3736b37c-9ed9-4f79-a178-37050a1c086d)
 
 
-##MOST OF THEN IN BLUE##
+## MOST OF THEM IN BLUE ##
 
 (all cars are optimized but is not possible to have all of then in blue for textures bug issues)
 ![Captura de pantalla 2023-11-11 142418](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/796712f3-9271-4a85-b00c-e8cbaf435ce1)
