@@ -10,9 +10,12 @@ SI NECESITAS SOPORTE: Discord: msaik
 
 If you need support: Discord: msaik
 
-EJEMPLO DE SOPORTE:  No puedo introducir los coches en el concesionario. Los puedes introducir por mi? Respuesta: SI
+[ES] EJEMPLO DE SOPORTE:  No puedo introducir los coches en el concesionario. Los puedes introducir por mi? Respuesta: SI
 
-EXAMPLE OF SUPPORT: I can't bring the cars into the dealership. Can you bring them in for me? Response: YES
+[EN] EXAMPLE OF SUPPORT: I can't bring the cars into the dealership. Can you bring them in for me? Response: YES
+
+##SOME CARS##
+
 ![Captura de pantalla 2023-11-11 130512](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/e7005c9f-4bbb-4b98-b2ed-5f59923838e5)
 ![Captura de pantalla 2023-11-11 123523](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/b4d3b5a2-7cb4-4d29-a522-67e2c0248921)
 ![Captura de pantalla 2023-11-11 124323](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/1e976c61-8960-4a81-a0c0-25ce04029ae1)
@@ -20,6 +23,7 @@ EXAMPLE OF SUPPORT: I can't bring the cars into the dealership. Can you bring th
 
 
 ##MOST OF THEN IN BLUE##
+
 (all cars are optimized but is not possible to have all of then in blue for textures bug issues)
 ![Captura de pantalla 2023-11-11 142418](https://github.com/MsaikFT/-Fivem-260-stock-with-tuning-parts.-CarPack-By-Discord-msaik-Fivem-260-CarPack-full-optimized-/assets/73364209/796712f3-9271-4a85-b00c-e8cbaf435ce1)
 
