@@ -1,4 +1,4 @@
-# Fivem CarPack +260cars FULL OPTIMIZED. CarPack Price [48,99€] BUY IN DISCORD: msaik
+# Fivem CarPack +260cars FULL OPTIMIZED. CarPack Price [4̶8̶,̶9̶9̶] "-20%" [39,20€] BUY IN DISCORD: msaik
 
 Fivem +260 CarPack, full optimized +sql + some vehicleshop data to introduce cars. By Discord msaik
 
